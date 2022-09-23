@@ -1,29 +1,21 @@
-# This is a large heading
+# Cardy Moten
 
-This repo is a result of a lesson in the Coursera course "The Unix Workbench".
+### Geography
 
-## This is a smaller heading
+I live in the city of Stuttgart, in Germany.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+Three books I am currently reading are:
 
-1. This is
-2. an ordered
-3. list
+- *The 1619 Project* by Nikole Hannah-Jones
+- *A World Without Email* by Cal Newport
+- *Atomic Habits* by James Clear
 
-Here is `some code` in the middle of a sentence.
+### Foood
 
-```
-This is a block
-of code
-```
+I really love to eat:
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Hamburgers and French Fries
+2. Grilled Fish
+3. Cheese and Grapes
